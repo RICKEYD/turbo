@@ -1872,6 +1872,7 @@ support_locales = [
     "de-DE",
     "en-US",
     "es-ES",
+    "fa-IR",
     "fr-FR",
     "it-IT",
     "ru-RU",
